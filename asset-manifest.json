@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/slotbooking/static/css/main.48e15819.css",
+    "main.js": "/slotbooking/static/js/main.ecae3de3.js",
+    "static/media/img1.png": "/slotbooking/static/media/img1.123cd40ee3e3ebba228e.png",
+    "static/media/img4.png": "/slotbooking/static/media/img4.872fa327bedaaeff42e9.png",
+    "static/media/parking_spot.jpg": "/slotbooking/static/media/parking_spot.152f15dafe9f33c676c6.jpg",
+    "index.html": "/slotbooking/index.html",
+    "main.48e15819.css.map": "/slotbooking/static/css/main.48e15819.css.map",
+    "main.ecae3de3.js.map": "/slotbooking/static/js/main.ecae3de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e15819.css",
+    "static/js/main.ecae3de3.js"
+  ]
+}
